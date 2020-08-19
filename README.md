@@ -8,5 +8,6 @@ the Program is capable of launching application:
 - Firefox
 - Windows media Player
 - internet explorer
-here using the speak() for this i have to import the module which is pyttsx3 ,and also for the system() ,importing the module which import os
+
+ here using the speak() for this i have to import the module which is pyttsx3 ,and also for the system() ,importing the module which import os
  writting simple while loop for checking the pattern using " in" operator, using and ,or operator 
